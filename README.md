@@ -45,9 +45,10 @@ This Specialization will equip you with machine learning basics and state-of-the
 ```mermaid
 flowchart TD
     B["fa:fa-twitter Natural Language Processing Specialization"]
-    B-->C[fa:fa-ban Supervised Machine Learning: Regression and Classification]
-    B-->D(fa:fa-spinner Advanced Learning Algorithms);
-    B-->E(fa:fa-camera-retro Unsupervised Learning, Recommenders, Reinforcement Learning)
+    B-->C[fa:fa-ban Natural Language Processing with Classification and Vector Spaces]
+    B-->D(fa:fa-spinner Natural Language Processing with Probabilistic Models);
+    B-->E(fa:fa-spinner Natural Language Processing with Sequence Models);
+    B-->F(fa:fa-camera-retro Natural Language Processing with Attention Models)
 ```
 
 ### COURSE 1
