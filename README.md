@@ -85,11 +85,11 @@ In the forth course of the Machine Learning Specialization, you will:
 
 ## Certificate
 
-1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
-2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
-3. [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
-4. [Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
-5. [Natural Language Processing Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/8F3W88UHF7CL)
+1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/32C5MY5Q8HGL)
+2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/ZPA6R3Q7CGQT)
+3. [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/NRECCG8ZHAQC)
+4. [Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/J7468XUNLKNU)
+5. [Natural Language Processing Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/VYCCGB737HN3)
 
 --------------------------------------------------------------------------------------------------------------
 
