@@ -52,48 +52,59 @@ flowchart TD
 ```
 
 ### COURSE 1
-### Supervised Machine Learning: Regression and Classification
+### Natural Language Processing with Classification and Vector Spaces
 
 In the first course of the Machine Learning Specialization, you will:
 - Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
 - Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
 
-* [Supervised Machine Learning: Regression and Classification](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-1-Supervised-Machine-Learning-Regression-and-Classification)
+* [Natural Language Processing with Classification and Vector Spaces](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-1-Supervised-Machine-Learning-Regression-and-Classification)
 
 ### COURSE 2
-### Advanced Learning Algorithms
+### Natural Language Processing with Probabilistic Models
 
 In the second course of the Machine Learning Specialization, you will:
 - Build and train a neural network with TensorFlow to perform multi-class classification
 - Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
 - Build and use decision trees and tree ensemble methods, including random forests and boosted trees
 
-* [Advanced Learning Algorithms](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-2-Advanced-Learning-Algorithms)
+* [Natural Language Processing with Probabilistic Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-2-Advanced-Learning-Algorithms)
 
 ### COURSE 3
-### Unsupervised Learning, Recommenders, Reinforcement Learning
+### Natural Language Processing with Sequence Models
 In the third course of the Machine Learning Specialization, you will:
 - Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
 - Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
 - Build a deep reinforcement learning model.
 
-* [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-3-Unsupervised-Learning-Recommenders-Reinforcement-Learning)
+* [Natural Language Processing with Sequence Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-3-Unsupervised-Learning-Recommenders-Reinforcement-Learning)
+
+### COURSE 4
+### Natural Language Processing with Attention Models
+In the third course of the Machine Learning Specialization, you will:
+- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
+- Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
+- Build a deep reinforcement learning model.
+
+* [Natural Language Processing with Attention Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-3-Unsupervised-Learning-Recommenders-Reinforcement-Learning)
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
 
-1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
-2. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
-3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
-4. [Machine Learning Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/8F3W88UHF7CL)
+1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
+2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
+3. [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
+4. [Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
+5. [Natural Language Processing Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/8F3W88UHF7CL)
 
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-2. [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+3. [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+4. [Natural Language Processing with Attention Models]()
 
 ----------------------------------------------------------------------------------------------------------------
 
