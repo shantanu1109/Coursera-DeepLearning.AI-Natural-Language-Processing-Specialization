@@ -55,38 +55,31 @@ flowchart TD
 ### Natural Language Processing with Classification and Vector Spaces
 
 In the first course of the Machine Learning Specialization, you will:
-- Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
-- Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
+- Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
 
-* [Natural Language Processing with Classification and Vector Spaces](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-1-Supervised-Machine-Learning-Regression-and-Classification)
+* [Natural Language Processing with Classification and Vector Spaces](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-1-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 
 ### COURSE 2
 ### Natural Language Processing with Probabilistic Models
 
 In the second course of the Machine Learning Specialization, you will:
-- Build and train a neural network with TensorFlow to perform multi-class classification
-- Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
-- Build and use decision trees and tree ensemble methods, including random forests and boosted trees
+- Use dynamic programming, hidden Markov models, and word embeddings to implement autocorrect, autocomplete & identify part-of-speech tags for words.
 
-* [Natural Language Processing with Probabilistic Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-2-Advanced-Learning-Algorithms)
+* [Natural Language Processing with Probabilistic Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-2-Natural%20Language%20Processing%20with%20Probabilistic%20Models)
 
 ### COURSE 3
 ### Natural Language Processing with Sequence Models
 In the third course of the Machine Learning Specialization, you will:
-- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
-- Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
-- Build a deep reinforcement learning model.
+- Use recurrent neural networks, LSTMs, GRUs & Siamese networks in Trax for sentiment analysis, text generation & named entity recognition.
 
-* [Natural Language Processing with Sequence Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-3-Unsupervised-Learning-Recommenders-Reinforcement-Learning)
+* [Natural Language Processing with Sequence Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-3-Natural%20Language%20Processing%20with%20Sequence%20Models)
 
 ### COURSE 4
 ### Natural Language Processing with Attention Models
-In the third course of the Machine Learning Specialization, you will:
-- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
-- Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
-- Build a deep reinforcement learning model.
+In the forth course of the Machine Learning Specialization, you will:
+- Use encoder-decoder, causal, & self-attention to machine translate complete sentences, summarize text, build chatbots & question-answering.
 
-* [Natural Language Processing with Attention Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization/tree/main/Course-3-Unsupervised-Learning-Recommenders-Reinforcement-Learning)
+* [Natural Language Processing with Attention Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-4-Natural%20Language%20Processing%20with%20Attention%20Models)
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -101,10 +94,10 @@ In the third course of the Machine Learning Specialization, you will:
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-3. [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
-4. [Natural Language Processing with Attention Models]()
+1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
+2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+3. [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
+4. [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
 
 ----------------------------------------------------------------------------------------------------------------
 
